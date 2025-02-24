@@ -1,0 +1,12 @@
+[
+    {
+        "model": "gpt-4o-mini",
+        "api_key": "sk-your-api-key-here",
+        "tags": ["gpt-4o-mini"]
+    },
+    {
+        "model": "gpt-4o",
+        "api_key": "sk-your-api-key-here",
+        "tags": ["gpt-4o"]
+    }
+] 
