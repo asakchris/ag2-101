@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ag2 = "*"
 pyautogen = {extras = ["mathchat"], version = "*"}
+chess = "*"
 
 [dev-packages]
 ipykernel = "*"
